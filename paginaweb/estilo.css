@@ -1,0 +1,177 @@
+
+
+header { 
+
+	float: left;
+	height: 15%;
+	width: 80%;
+	margin-top: 5px;
+	margin-left: 140px;
+
+}
+
+main{
+	float: left;
+	height: 70%;
+	width: 100%;
+	border: 2px solid;
+	border-color: white;
+
+}
+
+footer{
+	float: left;
+	height: 15%;
+	width: 140%;
+	background-color: #7c9c4c;
+	color: white;
+}
+
+nav{
+	position: relative;
+	color: white;
+	font-size: 21px;
+	background-color: #5B7138;
+}
+
+section{
+	margin-left: 40px;
+	margin-right: 70px;
+}
+
+
+
+h1{
+	color: #7c9c4c;
+	font-family: 'Trocchi', serif;
+	font-size: 45px;
+	font-weight: normal; 
+	line-height: 48px;
+	margin-bottom:  25px;
+	margin-top: 25px;
+}
+
+section > p{
+	font-family: arial, helvetica, roboto, "new times roman", lato;
+	font-size: 18px;
+	letter-spacing: 1px;
+	text-align: justify;
+}
+
+
+#seccion_1, #seccion_2{
+
+	float: left;
+}
+
+
+.header_1 > strong {
+	color: blue;
+	font-style: normal;
+
+}
+
+.header_1 {
+	line-height: 10px;
+	font-size: 27px;
+	color: red;
+	font-style: italic;
+}
+
+#foto1{position: absolute;
+	top: 9px;
+	left: 366px;
+}
+
+
+.header_2{
+	color: #A3A0A0;
+	margin-top: -20px;
+	font-size: 18px;
+}
+
+#header_izquierda{
+	float: right;
+	margin-top: -80px;
+	padding: 10px;
+}
+
+#header_izquierda > img{
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 105px;
+}
+
+#numero{
+	position: absolute;
+	top: 43px;
+	right:  586px;
+}
+
+#usuario{
+	position: absolute;
+	top: 43px;
+	right: 420px;
+}
+
+.menu ul,li {
+		display: inline-flex;
+		list-style: none;
+		margin: 0px;
+		padding: 0px;
+		border-color: #7c9c4c;
+		color: white;
+}
+
+.menu a {
+		display: block;
+		padding: 20px;
+		text-decoration: none;
+		color: white;
+		margin: 0px;
+
+}
+.menu a:hover {
+	background-color: #546735;
+}
+
+#caja_menu{
+	margin-top: 0px;
+	margin-left: 140px;
+}
+
+.menu{
+
+	background-color: #7c9c4c;
+	width: 100%;
+}
+	
+#imagen_3{
+	float: left;
+	margin-right: 20px;
+}
+
+.parrafo_ecologico{
+	float: left;
+	width: 400px;
+	margin-right: 30px;
+	margin-left: 120px;
+	text-align: justify;
+	font-family: arial, helvetica, roboto, "new times roman", lato;
+	font-size: 14px;
+	margin-bottom: 25px;
+}
+
+#imagenes{
+	margin-top: 38px;
+}
+
+
+footer>article{
+	float: left;
+	margin-left: 100px;
+}
+
+
+
+
